@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cisco dnacenter-ansible](https://github.com/cisco-en-programmability/dnacenter-ansible)
 
-- 👯 I’m looking to collaborate on **Cloud Native Projects and DevOps projects**
+- 👯 I’m looking to collaborate on **Cloud Native and DevOps projects**
 
 - 📫 How to reach me **syedkhadeerahmed12129@gmail.com**
 
